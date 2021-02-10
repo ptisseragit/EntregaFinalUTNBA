@@ -1,0 +1,27 @@
+.navbar {
+    min-height: 80px;
+}
+
+.color-nav{
+    /*background-color: #2b3553;*/
+    background-color: #015668
+}
+
+.link-text {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 0px 24px 0px 0px;
+    height: 40px;
+    color:#959aa9;
+  }
+
+  .link-text:hover {
+    text-decoration: none;
+    color:#c5cad9;
+    color:#ff4d59;
+  }
+  
+
+  
+

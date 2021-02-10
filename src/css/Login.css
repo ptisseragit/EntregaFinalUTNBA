@@ -1,0 +1,29 @@
+#CardLogin{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#JumboLogin {
+    background-image: url("../resources/rocket.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size:  cover;
+    /*background-color: #015668;*/
+    /*padding-top: 50px;*/
+    font-weight: bold;
+    /*margin-top: 50px;
+    margin-bottom: 50px;*/
+    /*padding: 50px;*/
+    margin-right: -15px;
+    /*border-radius: 10px;*/
+    height: 100vh;
+    width: 100%;
+}
+
+.jumbotron h1, p {
+    color: #ffffff;
+    font-weight: bold;
+    /*background-color: #ffffff65;*/
+    /*padding: 10px;*/
+    
+}
